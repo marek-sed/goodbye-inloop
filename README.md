@@ -12,7 +12,7 @@ S inloopákmi som nezažil jedinú zlú interakciu a hádam z každej jednej som
 
 ##### special thx to:
 
-Zuzana Andel, Erik Nota, Václav Zeman, Roman Bušfy, Martin Gaňa, Jan Hrubý, Juraj Lašák, Igor Liška, Marcel Takáč, Stanislav Čaniga, Martin Rosenberg, Karol Lenart, Jozef Hriadel, Ivona Staníková, Lukáš Kokoška, Jozef Šimko, Daniel Hercek, Bratislavsky Kancel(hlavne hanabi crew).
+Václav Zeman, Ivona Staníková, Jozef Hriadel, Erik Nota, Zuzana Andel, Stanislav Čaniga, Marcel Takáč, Jan Hrubý, Martin Gaňa, Jozef Šimko, Roman Bušfy, Martin Rosenberg, Bratislavsky Kancel(hlavne hanabi crew), Igor Liška, Karol Lenart, Daniel Hercek, Lukáš Kokoška, Juraj Lašák
 
 
 
