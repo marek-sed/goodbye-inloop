@@ -6,7 +6,7 @@ Ahojte dnes je môj posledný deň v avaste, po roku a ôsmich mesiacoch sa lú�
 
 Keď som nastúpil Inloop bol pre mňa v porovnaní s predošlími prácami malý zázrak. Zrazu sa veci dali, ľudia chceli robiť veci dobre, byť hrdý na svoju prácu. Mali názor a vedeli ho vysloviť. Mali subjektívnu predstavu o tom čo je dobré a čo zlé a ako robiť tak aby dobre bolo. Prišlo mi, že je nemožné tu nájsť jednu neochotnú osobu, zákernú alebo inak blbú osobu. Keď si niečo chcel tak sa dalo, nebol žiadny strop. Manažéri nezavadzali, developerov zaujímala technical excellence rovnako ako biznis value, každý sketch file bol konzistetný s perfektne definovanými marginmi a paddingmi, zakazníci vedeli čo chcú a každý mal vždy prácu a zaujímavý projekt. Ale späť na zem.
 
-S inloopákmi som nezažil jedinú zlú interakciu a hádam z každej jednej som vyšiel o niečo múdrejší. Mám pocit, že za posledný rok a pol som dospel ako dev a človek viac ako za posledných 6 rokov. Ďakujem vám všektým za to čo ste tu vytvorili.
+S inloopákmi som nezažil jedinú zlú interakciu a hádam z každej jednej som vyšiel o niečo múdrejší. Mám pocit, že za posledný rok a pol som dospel ako dev a človek viac ako za posledných 8 rokov. Ďakujem vám všektým za to čo ste tu vytvorili.
 
 
 
